@@ -1,5 +1,13 @@
 {
-    "username1": ["Broky", "Ghosty"],
-    "username2": ["Jade", "Nerd_Glock"]
+  "username1": [
+    "Broky",
+    "Ghosty"
+  ],
+  "username2": [
+    "Jade",
+    "Nerd_Glock"
+  ],
+  "xpees": [
+    "Ghosty"
+  ]
 }
-
